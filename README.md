@@ -3,11 +3,10 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · lorenzorechichi97-arch</sub></p>
-<h1>lorenzorechichi97-arch</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p><sub> ForgeNox · lorenzorechichi97-arch</sub></p>
+<h1> ForgeNox </h1>
+<p>Sviluppo con il supporto dell’AI strumenti per il trading e frontend web. Creo agenti AI in cloud e in locale per automatizzare processi aziendali. Qui condivido progetti, esperimenti e ciò che imparo costruendoli.</p>
+
 
 <p><a href="https://github.com/lorenzorechichi97-arch">GitHub</a></p>
 </td>
