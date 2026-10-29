@@ -6,7 +6,7 @@
 <img src="assets/rumbling-label.svg" width="100%" alt="01 — Il Fondatore. The Rumbling." />
 
 <p align="center">
-  <a href="https://tenor.com/view/eren-founding-titan-the-rumbling-colossal-titan-the-founding-titan-gif-25291484"><img src="https://media1.tenor.com/m/weqXjloh9ycAAAAC/eren-founding-titan.gif" width="100%" alt="Sequenza animata del Gigante Fondatore: occhi verdi, volto scheletrico e bocca spalancata tra i vapori del Boato. GIF senza audio." /></a>
+  <a href="https://tenor.com/view/eren-founding-titan-the-rumbling-colossal-titan-the-founding-titan-gif-25291484"><img src="assets/founding-titan.gif" width="100%" alt="Sequenza animata del Gigante Fondatore: occhi verdi, volto scheletrico e bocca spalancata tra i vapori del Boato. GIF senza audio." /></a>
 </p>
 
 <picture>
